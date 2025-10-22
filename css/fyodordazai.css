@@ -1,0 +1,51 @@
+.bg-1 {
+      background-color: #D6593C
+;
+
+}
+
+h1, h2, h3,h4 {
+ font-family: 'Fahkwang';
+
+    
+    }
+
+    h1 {
+      font-size: 3em;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+
+    h3 {
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+
+    h4 {
+font-size: 1.5em;
+      font-weight: bold;
+
+    }
+
+   p {
+  font-family: 'Noto Sans Thai';
+      font-style: Light;
+}
+
+.navtext {
+
+      font-family: 'Noto Sans Thai';
+      font-style: bold;
+
+}
+
+.stylist{
+
+      margin-bottom: 50px;
+
+
+}
